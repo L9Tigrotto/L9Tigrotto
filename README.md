@@ -13,7 +13,7 @@ Hey, I'm L9Tigrotto. I love C, and most of all C#. Much like Amumu seeking frien
 ## 🎮 League stuff
 
 - Main roles: Support > Jungle > ADC when forced
-- Favorite champion: Amumu (we have a lot in common)
+- Favorite champion: Amumu (we have a lot in common) and vayne (has cool sunglasses and gameplay)
 - "Report jungle diff" - My ADC, every game
 
 ## 🚀 What I'm working on
@@ -38,7 +38,7 @@ I also put together Minecraft modpacks for me and my friends. I find and combine
 ## 📬 Contact
 
 - GitHub: Right here
-- League IGN: TQCnoAlRosto#EUW
+- League IGN: Tigrotto #L9xdd
 - Discord: !Tigrotto
 
 Don't message me about Java problems. I won't help.
